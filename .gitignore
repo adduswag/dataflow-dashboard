@@ -1,0 +1,16 @@
+# Backend (Java / Spring Boot)
+backend/target/
+*.log
+*.class
+
+# Frontend (React)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# IDE files
+.idea/
+*.iml
+
+# System files (Mac)
+.DS_Store
